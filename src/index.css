@@ -122,7 +122,7 @@ body {
   cursor: pointer;
   padding: 10px;
   border-radius: 7px;
-  background-color: #424242;
+  background-color: #cbcbcb;
 }
 /* ------------------------------------------------------*/
 
@@ -136,7 +136,7 @@ body {
 .day-container{
   height: 100px;
   width: 150px;
-  background-color: #323232;
+  background-color: #fbfbfb;
   border-radius: 20px;
   padding: 5px;
 }
